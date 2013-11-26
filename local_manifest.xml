@@ -19,7 +19,7 @@
 
    <!-- Local Projects -->
   <project path="kernel/tegra" name="dragonzkiller/daytona-kernel" revision="gb-2.6.32.9" />
-  <project path="device/moto/daytona" name="iPonyRadio/android_device_moto_daytona" revision="ics" />
+  <project path="device/moto/daytona" name="iPonyRadio/android_device_moto_daytona" revision="jellybean" />
   <project path="vendor/moto/daytona" name="dragonzkiller/android_vendor_moto_daytona" revision="ics" />
 
 </manifest>
