@@ -7,12 +7,12 @@
   <!-- CM Removals -->
   <remove-project name="CyanogenMod/android_frameworks_base" />
   <remove-project name="CyanogenMod/android_system_core" />
-  <remove-project name="CyanogenMod/android_vendor_cm" />
+  <!-- remove-project name="CyanogenMod/android_vendor_cm" / -->
 
   <!-- CM Replacements -->
   <project path="frameworks/base" name="dragonzkiller/android_frameworks_base" />
   <project path="system/core" name="dragonzkiller/android_system_core" />
-  <project path="vendor/cm" name="dragonzkiller/android_vendor_cm" />
+  <!-- project path="vendor/cm" name="dragonzkiller/android_vendor_cm" / -->
 
    <!-- Photon-Dev-Team Stuff -->
   <project path="vendor/moto" name="proprietary_vendor_motorola" remote="photon" />
